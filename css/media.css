@@ -17,7 +17,11 @@
     }
 
 
-
+.rct-3{
+     position: absolute;
+    bottom: 0px;
+    left: 100px;
+}
 
 .btn-trans{
     margin-bottom: 20px;
