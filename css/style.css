@@ -854,8 +854,12 @@ li a:hover {
     rotate: -1deg;
 }
 
-.authors-img1 {
+.authors-cart{
     width: 40%;
+}
+
+.authors-img1 {
+    width: 100%;
     border: 4px solid black;
     margin-bottom: 15px;
 }
